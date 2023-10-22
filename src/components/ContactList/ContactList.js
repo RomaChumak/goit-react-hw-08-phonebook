@@ -1,6 +1,5 @@
 import { useDispatch, useSelector } from 'react-redux';
 import {
-  ContactListWrapper,
   ContactItem,
   ContactName,
   ContactNumber,
